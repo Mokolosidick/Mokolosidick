@@ -1,0 +1,1 @@
+Bonjour je me nonme Moko étudiant à l'école nationale supérieure de statistiques et d'économie appliquée et je suis intéressé par l'apprentissage du langage python afin de développer de meilleures compétences en data science 
